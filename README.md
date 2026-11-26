@@ -54,7 +54,6 @@ dam_uts-fix/
 │       │   └── file_data_excel
 │       └── scraping/
 │           └── file_hasil_scraping
-├── readmi/
 └── README.md
 ```
 
